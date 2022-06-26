@@ -7,8 +7,8 @@
 
 		default_layer {
 // -----------------------------------------------------------------------------------------
-// |  TAB  |  Q   |  W   |  E   |  R   |  T   |   Y   |  U    |  I   |  O   |   P   | BSPC  |
-// |  ESC  |  A   |  S   |  D   |  F   |  G   |   H   |  J    |  K   |  L   |   ;   |  '    |
+// |  TAB  |  A   |  W   |  E   |  R   |  T   |   Y   |  U    |  I   |  O   |   P   | BSPC  |
+// |  ESC  |  Q   |  S   |  D   |  F   |  G   |   H   |  J    |  K   |  L   |   ;   |  '    |
 // | SHIFT |  Z   |  X   |  C   |  V   |  B   |   N   |  M    |  ,   |  .   |   /   |  RET  |
 // | FN    | LGUI | LALT | LCTL | LOWR |     SPACE    |  RAIS | LARW | DARW | UARW  |  RARW |
 			bindings = <
